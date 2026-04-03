@@ -1,9 +1,11 @@
 # Практическая работа №6
 <img width="990" height="343" alt="image" src="https://github.com/user-attachments/assets/7b5302a5-5ada-4b15-8562-23a4b54572af" />
+
 # Задача 1. Перевод времени
 int hours;
 cin >> hours;
 cout << hours * 60 << " минут"
+
 # Задача 2. Сравнение чисел
  cin >> A >> B;
     if (A > B) {
